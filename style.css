@@ -1,6 +1,9 @@
 body{
   background-color:#EAF6F6;
 }
+.top{
+  background-image: linear-gradient(white, grey);
+}
 
 hr{
   border-style: none;
@@ -10,7 +13,7 @@ hr{
   width: 5%;
 }
 h1{
-  color: #66BFBF;
+  color: black;
   font-style: oblique;
   font-family: cursive;
 }
